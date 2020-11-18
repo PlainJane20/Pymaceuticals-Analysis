@@ -6,7 +6,7 @@ In this study, 249 mice identified with SCC tumor growth were treated through a 
 
 Datasets used were [Mouse_metadata.csv](Pymaceuticals-Analysis/Pymaceuticals/Resources/Mouse_metadata.csv) and [Study_results.csv](Pymaceuticals-Analysis/Pymaceuticals/Resources/Study_results.csv)
 
-Using MatPlotLib and Pandas Python libraries in a Jupyter notebook, the following is generated (this is high level, for detailed data analysis please click on the link): [Pymaceuticals_Outcome](Pymaceuticals-Analysis//Pymaceuticals/pymaceuticals_starter.ipynb)
+Using MatPlotLib and Pandas Python libraries in a Jupyter notebook, the following is generated (this is high level, for detailed data analysis please click on the link): [Pymaceuticals_Outcome](https://github.com/PlainJane20/Pymaceuticals-Analysis/blob/main/Pymaceuticals/pymaceuticals_starter.ipynb)
 
 * A summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
