@@ -47,7 +47,7 @@ Using MatPlotLib and Pandas Python libraries in a Jupyter notebook, the followin
 ### Few observations: 
 * Capomulin seemed to be effective in reducing the average SCC tumor volume in mice over a 45 day period. 
 * When looking at the gender correlation, the case study had nearly identical number of male vs female mice count. 
-* Weight of the mice correlated strongly (r- 0.84) with average tumor volume. 
+* The correlation between mouse weight and the average tumor volume is 0.84.
 * Out of the four drugs regimen Capomulin, Infubinol, Ramicane, and Ceftamin only Infubinol had one outlier data point. 
 
 # Navi Sohi | Data Analytics
