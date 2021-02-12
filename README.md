@@ -50,4 +50,4 @@ Using MatPlotLib and Pandas Python libraries in a Jupyter notebook, the followin
 * The correlation between mouse weight and the average tumor volume is 0.84.
 * Out of the four drugs regimen Capomulin, Infubinol, Ramicane, and Ceftamin only Infubinol had one outlier data point. 
 
-### Navi Sohi | Data Analytics & Visualization
+### [Navi Sohi](https://github.com/PlainJane20) | Data Analytics & Visualization
